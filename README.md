@@ -1,5 +1,5 @@
 # Easy-YoutubeDL
-Easy Youtube-DL GUI with Autohotkey. Just download and run the AHK Script.
+Easy Youtube-DL GUI built with Autohotkey. Just download and run the `.exe`
 
 ## Install
 1. Make sure you have FFMPEG installed on your system
